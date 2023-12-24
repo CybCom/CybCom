@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on contributing to vscode
+- 🌱 I’m currently learning mathematical logic😅
+- 👯 I’m looking to collaborate on strolling in the wilderness
+- 💬 Ask me about space
+- 📫 How to reach me: through thought
+- ⚡ Fun fact: my campus card is a von Neumann computer.
+  
 <!--
 **CybCom/CybCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
